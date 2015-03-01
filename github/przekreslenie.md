@@ -1,6 +1,6 @@
 Title: 		Przekreślenie  
 Date: 		28 Luty 2015  
-Source:     https://github.com/codexproject/docs/blob/master/writing-reference/github-flavored-markdown.md  
+Source:     https://github.com/codexproject/docs/blob/master/writing-reference/github-flavored-markdown.md - Codex Project  
 Reviewer:	Krystian Duma  
 
 # Przekreślenie

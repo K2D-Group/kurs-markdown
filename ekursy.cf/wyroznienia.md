@@ -1,6 +1,6 @@
 Title: 		Wyróżnienia  
 Date: 		28 Luty 2015  
-Source:     https://github.com/codexproject/docs/blob/master/writing-reference/callouts.md  
+Source:     https://github.com/codexproject/docs/blob/master/writing-reference/callouts.md - Codex Project  
 Reviewer:	Krystian Duma  
 
 # Callouts
