@@ -1,6 +1,7 @@
 Title: 		Dodatkowe atrybuty  
 Date: 		28 Luty 2015  
 Source:     https://michelf.ca/projects/php-markdown/extra/  
+Reviewer:	Krystian Duma  
 
 # Dodatkowe atrybuty
 

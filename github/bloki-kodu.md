@@ -1,6 +1,7 @@
 Title: 		Bloki kodu i składnia  
 Date: 		28 Luty 2015  
 Source:     https://github.com/codexproject/docs/blob/master/writing-reference/github-flavored-markdown.md  
+Reviewer:	Krystian Duma  
 
 
 ### Fenced code blocks
