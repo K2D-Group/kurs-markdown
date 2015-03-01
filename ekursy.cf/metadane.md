@@ -2,6 +2,7 @@ Title: 		Metadane dokumentu
 Date: 		28 Luty 2015  
 Author:     Krystian Duma  
 Reviewer:	Krystian Duma  
+Private:	True  
 
 # Metadane dokumentu
 Każdy dokument MarkDown trafiający na ekursy.cf powinien zawierać Metadane[^1].

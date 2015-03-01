@@ -2,6 +2,7 @@ Title: 		Tabele
 Date: 		28 Luty 2015  
 Source:     Codex Project => https://github.com/codexproject/docs/blob/master/writing-reference/github-flavored-markdown.md  
 Reviewer:	Krystian Duma  
+Private:	True  
 
 # Tabele
 You can create tables by assembling a list of words and dividing them with hyphens `-` (for the first row), and then separating each column with a pipe `|`:
