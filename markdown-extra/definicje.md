@@ -1,6 +1,6 @@
-Title: 		Definicje
-Date: 		28 Luty 2015
-Source:     https://michelf.ca/projects/php-markdown/extra/
+Title: 		Definicje  
+Date: 		28 Luty 2015  
+Source:     https://michelf.ca/projects/php-markdown/extra/  
 
 # Definicje
 

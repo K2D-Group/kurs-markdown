@@ -1,6 +1,6 @@
-Title: 		Wyróżnienia
+Title: 		Wyróżnienia  
 Date: 		28 Luty 2015  
-Source:     https://github.com/codexproject/docs/blob/master/writing-reference/callouts.md
+Source:     https://github.com/codexproject/docs/blob/master/writing-reference/callouts.md  
 
 # Callouts
 Blockquote callouts are really nice for drawing attention to important information. Callouts are automatically generated whenever you start a blockquote with a special *trigger* word.

@@ -1,6 +1,6 @@
-Title: 		Paragrafy i znaki końca wiersza
+Title: 		Paragrafy i znaki końca wiersza  
 Date: 		28 Luty 2015  
-Source:     http://www.asp.katowice.pl/zobacz/markdown
+Source:     http://www.asp.katowice.pl/zobacz/markdown  
 
 # Paragrafy i znaki końca wiersza
 

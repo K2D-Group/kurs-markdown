@@ -1,6 +1,6 @@
-Title: 		Skróty
-Date: 		28 Luty 2015
-Source:     https://michelf.ca/projects/php-markdown/extra/
+Title: 		Skróty  
+Date: 		28 Luty 2015  
+Source:     https://michelf.ca/projects/php-markdown/extra/  
 
 # Skróty
 

@@ -1,6 +1,6 @@
-Title: 		Wyróżnienie
-Date: 		28 Luty 2015
-Source:     http://www.asp.katowice.pl/zobacz/markdown
+Title: 		Wyróżnienie  
+Date: 		28 Luty 2015  
+Source:     http://www.asp.katowice.pl/zobacz/markdown  
 
 # Wyróżnienie
 
