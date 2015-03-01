@@ -1,5 +1,7 @@
-Title: 		Metadane dokumentu
+Title: 		Metadane dokumentu  
 Date: 		28 Luty 2015  
+Author:     Krystian Duma  
+Reviewer:	Krystian Duma  
 
 # Metadane dokumentu
 Każdy dokument MarkDown trafiający na ekursy.cf powinien zawierać Metadane[^1].
@@ -12,6 +14,8 @@ w następnych liniach używając wcięć.
 Są wymagane przynajmniej 2 klucze:
 - `Title` - Tytuł dokumentu
 - `Date` - Data utworzenia, i daty aktualizacji
+
+Aby utrzymać kompatybilność z programami które nie obsługują metadanych poleca się postawienie 2 spacji na końcu każdej lini metadanych.
 
 ## Przykład
 

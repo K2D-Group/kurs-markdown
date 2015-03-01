@@ -1,6 +1,7 @@
-Title: 		Podkreślenia
+Title: 		Podkreślenia  
 Date: 		28 Luty 2015  
-Source:     https://github.com/codexproject/docs/blob/master/writing-reference/github-flavored-markdown.md
+Source:     https://github.com/codexproject/docs/blob/master/writing-reference/github-flavored-markdown.md - Codex Project  
+Reviewer:	Krystian Duma  
 
 # Podkreślenia
 W "standardowym" MarkDown'nie podkreślenia (`_`) powodują pochylenie tekstu więc, tekst `wow_great_stuff` staje się wow*great*stuff
