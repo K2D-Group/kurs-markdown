@@ -31,13 +31,14 @@ Author:     Jan Kowalski
 
 # Standardowe klucze
 
-| Klucz      | Wymagany  | Opis                                              |
-|:---------- |:---------:|:------------------------------------------------- |
-| `Title`    | **Tak**   | Tytuł dokumentu                                   |
-| `Date`     | **Tak**   | Data utworzenia, i daty aktualizacji              |
-| `Author`   | Nie       | Autorzy tekstu                                    |
-| `Reviewer` | Nie       | Recenzenci tekstu                                 |
-| `Source`   | Nie       | źródła którymi posłużono się do napisania tekstu  |
+| Klucz      | Wymagany  | Opis                                              			|
+|:---------- |:---------:|:------------------------------------------------------------ |
+| `Title`    | **Tak**   | Tytuł dokumentu                                   			|
+| `Date`     | **Tak**   | Data utworzenia, i daty aktualizacji              			|
+| `Author`   | Nie       | Autorzy tekstu                                    			|
+| `Reviewer` | Nie       | Recenzenci tekstu                                			|
+| `Source`   | Nie       | źródła którymi posłużono się do napisania tekstu  			|
+| `Private`  | Nie       | Czy wymagane jest logowanie. (True/False) domyślnie false 	|
 
 
 
