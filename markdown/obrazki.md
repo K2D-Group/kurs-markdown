@@ -1,7 +1,6 @@
 Title: 		Obrazki  
 Date: 		28-02-2015  
 Source:     asp.katowice.pl => http://www.asp.katowice.pl/zobacz/markdown  
-Reviewer:	Krystian Duma  
 
 # Obrazki
 
