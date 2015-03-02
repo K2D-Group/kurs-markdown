@@ -1,5 +1,5 @@
 Title: 		Backslash Escapes  
-Date: 		28 Luty 2015  
+Date: 		28-02-2015  
 Source:     asp.katowice.pl => http://www.asp.katowice.pl/zobacz/markdown  
 Reviewer:	Krystian Duma  
 
