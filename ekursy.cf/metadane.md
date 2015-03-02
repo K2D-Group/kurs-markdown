@@ -1,5 +1,5 @@
 Title: 		Metadane dokumentu  
-Date: 		28 Luty 2015  
+Date: 		28-02-2015  
 Author:     Krystian Duma  
 Reviewer:	Krystian Duma  
 Private:	True  
@@ -22,8 +22,8 @@ Aby utrzymać kompatybilność z programami które nie obsługują metadanych po
 
 ```
 Title: 		Sample Document  
-Date: 		13 Styczeń 2015  
-            30 Luty 2015  
+Date: 		13-01-2015  
+            30-02-2015  
 Author:     Jan Kowalski
             Ewa Nowak
 
