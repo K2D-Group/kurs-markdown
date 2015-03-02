@@ -1,5 +1,5 @@
 Title: 		Automatyczne linki  
-Date: 		28 Luty 2015  
+Date: 		28-02-2015  
 Source:     Codex Project => https://github.com/codexproject/docs/blob/master/writing-reference/github-flavored-markdown.md  
 Reviewer:	Krystian Duma  
 Private:	True  
