@@ -1,5 +1,5 @@
 Title: 		Skróty  
-Date: 		28 Luty 2015  
+Date: 		28-02-2015  
 Source:     michelf.ca => https://michelf.ca/projects/php-markdown/extra/  
 Reviewer:	Krystian Duma  
 Private:	True  
